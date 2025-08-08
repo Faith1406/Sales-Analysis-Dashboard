@@ -5,7 +5,7 @@
 
 ## 🧾 Project Overview
 
-The **Sales Analysis Dashboard** is an interactive Power BI report designed to provide deep insights into a company’s sales performance. This includes real-time tracking of sales revenue, top selling product categories, and regional performance. It's ideal for sales analysts, business managers, and decision-makers looking to improve revenue outcomes and identify growth opportunities.
+The **Sales Analysis Dashboard** is an interactive Power BI report designed to provide deep insights into a company’s sales performance. This includes real-time tracking of sales revenue, top selling product categories, and regional performance. 
 
 ## 💡 Key Features
 
@@ -57,7 +57,6 @@ Sales-Analysis-Dashboard/
 1. Download the `.pbix` file
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with the report using slicers and visual elements.
-4. Replace the sample data with your own (if applicable).
 
 ## 📜 License
 
